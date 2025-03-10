@@ -1,6 +1,6 @@
 currently the only code that was implemented is the manager menu.
 
-this is the WIP version, so there us still alot too make and inprove.
+this is the WIP version, so there us still alot to make and inprove.
 i want the same resault as the prototype, but a more effiecent, and better looking code.
 
 i am currently busy with trying to put the student and teacher menu into the code without adding too much lines.
